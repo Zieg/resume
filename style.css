@@ -1,3 +1,7 @@
+html{
+    filter: invert(1) hue-rotate(20deg);
+}
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
