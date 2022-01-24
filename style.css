@@ -1,5 +1,5 @@
 html{
-    filter: invert(1) hue-rotate(20deg);
+    filter: invert(0.85);
 }
 
 body {
